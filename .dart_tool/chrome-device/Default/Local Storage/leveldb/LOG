@@ -1,0 +1,30 @@
+2024/09/04-19:07:23.456 3094 Reusing MANIFEST C:\Users\ESCOLA\AppData\Local\Temp\flutter_tools.d77a808\flutter_tools_chrome_device.2acf5999\Default\Local Storage\leveldb/MANIFEST-000001
+2024/09/04-19:07:23.502 3094 Recovering log #3
+2024/09/04-19:07:23.516 3094 Reusing old log C:\Users\ESCOLA\AppData\Local\Temp\flutter_tools.d77a808\flutter_tools_chrome_device.2acf5999\Default\Local Storage\leveldb/000003.log 
+2024/09/04-19:11:29.877 3094 Level-0 table #5: started
+2024/09/04-19:11:29.881 3094 Level-0 table #5: 19683 bytes OK
+2024/09/04-19:11:29.885 3094 Delete type=0 #3
+2024/09/04-19:11:48.920 1604 Level-0 table #7: started
+2024/09/04-19:11:48.928 1604 Level-0 table #7: 55720 bytes OK
+2024/09/04-19:11:48.931 1604 Delete type=0 #4
+2024/09/04-19:51:13.259 1604 Level-0 table #9: started
+2024/09/04-19:51:13.266 1604 Level-0 table #9: 59613 bytes OK
+2024/09/04-19:51:13.304 1604 Delete type=0 #6
+2024/09/04-19:51:26.911 1604 Level-0 table #11: started
+2024/09/04-19:51:26.920 1604 Level-0 table #11: 18670 bytes OK
+2024/09/04-19:51:26.931 1604 Delete type=0 #8
+2024/09/04-20:13:06.337 1604 Level-0 table #13: started
+2024/09/04-20:13:06.344 1604 Level-0 table #13: 74035 bytes OK
+2024/09/04-20:13:06.355 1604 Delete type=0 #10
+2024/09/04-20:15:09.230 1604 Level-0 table #15: started
+2024/09/04-20:15:09.239 1604 Level-0 table #15: 18738 bytes OK
+2024/09/04-20:15:09.245 1604 Delete type=0 #12
+2024/09/04-20:15:09.245 1604 Compacting 4@0 + 1@1 files
+2024/09/04-20:15:09.254 1604 Generated table #16@0: 16 keys, 89929 bytes
+2024/09/04-20:15:09.254 1604 Compacted 4@0 + 1@1 files => 89929 bytes
+2024/09/04-20:15:09.260 1604 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/04-20:15:09.260 1604 Delete type=2 #7
+2024/09/04-20:15:09.261 1604 Delete type=2 #9
+2024/09/04-20:15:09.261 1604 Delete type=2 #11
+2024/09/04-20:15:09.261 1604 Delete type=2 #13
+2024/09/04-20:15:09.261 1604 Delete type=2 #15
